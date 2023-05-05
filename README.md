@@ -1,7 +1,7 @@
 # CobaltStrike-4.8-Cracked
 CobaltStrike 4.8 Cracked    【切勿用于任何非法用途,仅供学习研究使用，为了你的安全,请放在虚拟机中测试。】
 ```
-CobaltStrike4.8_www.ddosi.org
+CobaltStrike4.8
 ├─Client
 │      cobaltstrike-client.cmd
 │      cobaltstrike-client.jar
